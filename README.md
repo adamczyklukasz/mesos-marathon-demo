@@ -1,7 +1,8 @@
 # Introduction to Apache Mesos + Marathon
 
 ## Presentation
-Open `index.html` to see presentation
+
+To see presentation open `index.html` or http://adamczyk.krakow.pl/mesos-marathon-demo/
 
 ## Demo
 
